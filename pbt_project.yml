@@ -1,0 +1,49 @@
+name: armando.murazik
+description: Centralized
+version: 0.0.1
+author: wvoiemel.hpuqkw7p@rbjll6rz.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: armandomurazik
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2024-10-24 22:00:24'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2024-10-24 22:00:24'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2024-10-24T22:00:24.898504Z'
+  name: plibMaven
+  version: 8.4.0-SNAPSHOT
+  id: '1258544702'
+  createdAt: '2024-10-24T22:00:24.898504Z'
+  type: plibMaven
+projectDependencies: {}
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
